@@ -54,3 +54,18 @@ There are no programming assignments for this course.
 [Week 4 - Programming Assignment 2 - Art Generation with Neural Style Transfer](https://nbviewer.org/gist/ShrutiMarathe3110/836565d6c47d60f6b87dcc5f102bfcee)
 
 
+## Course 5: Sequence Models
+
+[Week 1 - Programming Assignment 1 - Building a Recurrent Neural Network - Step by Step](https://nbviewer.org/gist/ShrutiMarathe3110/08c4ba71bb10989f49b49092cc34d02e)
+
+[Week 1 - Programming Assignment 2 - Dinosaur Land -- Character-level Language Modeling](https://nbviewer.org/gist/ShrutiMarathe3110/dc5cea37a32e6d53f445bd2cc135cf23)
+
+[Week 1 - Programming Assignment 3 - Jazz improvisation with LSTM](https://nbviewer.org/gist/ShrutiMarathe3110/5aa5825e32add85f1e81c70ea9b95749)
+
+[Week 2 - Programming Assignment 1 - Operations on Word Vectors - Debiasing](https://nbviewer.org/gist/ShrutiMarathe3110/aa34cc89c10cf5c87dfea2410d011dd8)
+
+[Week 2 - Programming Assignment 2 - Emojify!](https://nbviewer.org/gist/ShrutiMarathe3110/b953fa4ed751eae9d2d208944533f113)
+
+[Week 3 - Programming Assignment 1 - Neural Machine Translation](https://nbviewer.org/gist/ShrutiMarathe3110/b861dc669da4e3aa35d5a30b286eae12)
+
+[Week 3 - Programming Assignment 2 - Trigger Word Detection]()
