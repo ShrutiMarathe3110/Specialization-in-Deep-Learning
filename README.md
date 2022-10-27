@@ -28,3 +28,7 @@ This repository contains the work (progamming assinments) I have done towards th
 [Week 2 - Programming Assignment 4 - Optimization Methods](https://nbviewer.org/gist/ShrutiMarathe3110/195d6d351d978b6608288b2fea5a916d)
 
 [Week 3 - Programming Assignment 5 - TensorFlow Tutorial](https://nbviewer.org/gist/ShrutiMarathe3110/f904ef07c0864d53252e7d0ed7531689)
+
+
+##Course 3: Structuring Machine Learning Projects
+There are no programming assignments for this course.
