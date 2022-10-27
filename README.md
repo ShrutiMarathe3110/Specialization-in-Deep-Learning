@@ -9,7 +9,7 @@ This repository contains the work (progamming assinments) I have done towards th
 ## Course 1 : Neural Networks and Deep Learning
 [Week 2 - Programming Assignment 1 - Python Basics with Numpy](https://nbviewer.org/gist/ShrutiMarathe3110/3c18c3f4d7b0a394f9e4a3a80876a3d0)
 
-[Week 2 - Programming Assignment 2 - Logistic Regression with a Neural Network mindset](https://nbviewer.org/gist/ShrutiMarathe3110/3c18c3f4d7b0a394f9e4a3a80876a3d0)
+[Week 2 - Programming Assignment 2 - Logistic Regression with a Neural Network mindset](https://nbviewer.org/gist/ShrutiMarathe3110/51c5b6d2eb50c95824bb340d1cc876f5)
 
 [Week 3 - Programming Assignment 3 - Planar data classification with one hidden layer](https://nbviewer.org/gist/ShrutiMarathe3110/51c5b6d2eb50c95824bb340d1cc876f5)
 
