@@ -18,7 +18,7 @@ This repository contains the work (progamming assinments) I have done towards th
 [Week 4 - Programming Assignment 5 - Deep Neural Network for Image Classification: Application](https://nbviewer.org/gist/ShrutiMarathe3110/18981cae962f7ae22b931e635b0845a3)
 
 
-##Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+## Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
 [Week 1 - Programming Assignment 1 - Initialization](https://nbviewer.org/gist/ShrutiMarathe3110/1bbd2fb7df8b07b757ecaef395242998)
 
@@ -31,8 +31,26 @@ This repository contains the work (progamming assinments) I have done towards th
 [Week 3 - Programming Assignment 5 - TensorFlow Tutorial](https://nbviewer.org/gist/ShrutiMarathe3110/f904ef07c0864d53252e7d0ed7531689)
 
 
-##Course 3: Structuring Machine Learning Projects
+## Course 3: Structuring Machine Learning Projects
 There are no programming assignments for this course.
 
 
-##Course 4:  Convolutional Neural Networks
+## Course 4:  Convolutional Neural Networks
+
+[Week 1 - Programming Assignment 1 - Convolutional Model: step by step](https://nbviewer.org/gist/ShrutiMarathe3110/04fd99f71bdda242db1bb83b85cfd322)
+
+[Week 1 - Programming Assignment 2 - Convolutional Neural Networks: Application](https://nbviewer.org/gist/ShrutiMarathe3110/75227ccfb88612cf6bcbcf39059c383d)
+
+[Week 2 - Programming Assignment 1 - Residual Networks](https://nbviewer.org/gist/ShrutiMarathe3110/b8e0d6f8cb44021e7cb1d195fed9fcde)
+
+[Week 2 - Programming Assignment 2 - Transfer Learning with MobileNet](https://gist.github.com/ShrutiMarathe3110/9891dbbc12e9b07623e6d2d2ad6078e2)
+
+[Week 3 - Programming Assignment 1 - Car detection with YOLO for Autonomous Driving](https://nbviewer.org/gist/ShrutiMarathe3110/2403c26e67bb9298354fde03b41095d6)
+
+[Week 3 - Programming Assignment 2 - Image Segmentation Unet](https://nbviewer.org/gist/ShrutiMarathe3110/0d675614d2163f4b96af859aaf665523)
+
+[Week 4 - Programming Assignment 1 - Face Recognition](https://nbviewer.org/gist/ShrutiMarathe3110/bd16584a58373158392578cc3621e97e)
+
+[Week 4 - Programming Assignment 2 - Art Generation with Neural Style Transfer](https://nbviewer.org/gist/ShrutiMarathe3110/836565d6c47d60f6b87dcc5f102bfcee)
+
+
