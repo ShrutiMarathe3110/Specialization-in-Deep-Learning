@@ -9,7 +9,7 @@ This repository contains the work (progamming assinments) I have done towards th
 ## Course 1 : Neural Networks and Deep Learning
 [Week 2 - Programming Assignment 1 - Python Basics with Numpy](https://www.coursera.org/learn/neural-networks-deep-learning/programming/isoAV/python-basics-with-numpy/lab?path=%2Fnotebooks%2Frelease%2FW2A1%2FPython_Basics_with_Numpy.ipynb)
 
-[Week 2 - Programming Assignment 2 - Logistic Regression with a Neural Network mindset](https://www.coursera.org/learn/neural-networks-deep-learning/programming/thQd4/logistic-regression-with-a-neural-network-mindset/lab?path=%2Fnotebooks%2Frelease%2FW2A2%2FLogistic_Regression_with_a_Neural_Network_mindset.ipynb)
+[Week 2 - Programming Assignment 2 - Logistic Regression with a Neural Network mindset](https://nbviewer.org/gist/ShrutiMarathe3110/3c18c3f4d7b0a394f9e4a3a80876a3d0)
 
 [Week 3 - Programming Assignment 3 - Planar data classification with one hidden layer](https://www.coursera.org/learn/neural-networks-deep-learning/programming/e6FsA/planar-data-classification-with-one-hidden-layer/lab?path=%2Fnotebooks%2Frelease%2FW3A1%2FPlanar_data_classification_with_one_hidden_layer.ipynb)
 
