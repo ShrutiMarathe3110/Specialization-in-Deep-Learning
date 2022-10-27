@@ -18,3 +18,13 @@ This repository contains the work (progamming assinments) I have done towards th
 [Week 4 - Programming Assignment 5 - Deep Neural Network for Image Classification: Application](https://www.coursera.org/learn/neural-networks-deep-learning/programming/Sfu8g/deep-neural-network-application/lab?path=%2Fnotebooks%2Frelease%2FW4A2%2FDeep%2520Neural%2520Network%2520-%2520Application.ipynb)
 
 
+##Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+[Week 1 - Programming Assignment 1 - Initialization](https://www.coursera.org/learn/deep-neural-network/programming/QF47Q/initialization/lab?path=%2Fnotebooks%2Frelease%2FW1A1%2FInitialization.ipynb)
+
+[Week 1 - Programming Assignment 2 - Regularization](https://www.coursera.org/learn/deep-neural-network/programming/FjL8C/regularization/lab?path=%2Fnotebooks%2Frelease%2FW1A2%2FRegularization.ipynb)
+
+[Week 1 - Programming Assignment 3 - Gradient Checking](https://www.coursera.org/learn/deep-neural-network/programming/RS2w3/gradient-checking/lab?path=%2Fnotebooks%2Frelease%2FW1A3%2FGradient_Checking.ipynb)
+
+[Week 2 - Programming Assignment 4 - Optimization Methods](https://www.coursera.org/learn/deep-neural-network/programming/390Oe/optimization-methods/lab?path=%2Fnotebooks%2Frelease%2FW2A1%2FOptimization_methods.ipynb)
+
+[Week 3 - Programming Assignment 5 - TensorFlow Tutorial](https://www.coursera.org/learn/deep-neural-network/programming/fuJJY/tensorflow-introduction/lab?path=%2Fnotebooks%2Frelease%2FW3A1%2FTensorflow_introduction.ipynb)
