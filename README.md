@@ -9,13 +9,13 @@ This repository contains the work (progamming assinments) I have done towards th
 ## Course 1 : Neural Networks and Deep Learning
 [Week 2 - Programming Assignment 1 - Python Basics with Numpy](https://nbviewer.org/gist/ShrutiMarathe3110/3c18c3f4d7b0a394f9e4a3a80876a3d0)
 
-[Week 2 - Programming Assignment 2 - Logistic Regression with a Neural Network mindset](https://nbviewer.org/gist/ShrutiMarathe3110/51c5b6d2eb50c95824bb340d1cc876f5)
+[Week 2 - Programming Assignment 2 - Logistic Regression with a Neural Network mindset](https://nbviewer.org/gist/ShrutiMarathe3110/3abd91b37a84679c5e060e7336ffbbe7)
 
 [Week 3 - Programming Assignment 3 - Planar data classification with one hidden layer](https://nbviewer.org/gist/ShrutiMarathe3110/51c5b6d2eb50c95824bb340d1cc876f5)
 
-[Week 4 - Programming Assignment 4 - Building your Deep Neural Network: Step by Step](https://www.coursera.org/learn/neural-networks-deep-learning/programming/GY8CB/building-your-deep-neural-network-step-by-step/lab?path=%2Fnotebooks%2Frelease%2FW4A1%2FBuilding_your_Deep_Neural_Network_Step_by_Step.ipynb#)
+[Week 4 - Programming Assignment 4 - Building your Deep Neural Network: Step by Step](https://nbviewer.org/gist/ShrutiMarathe3110/0b2067fb3a9459b1461783a794c4e5ad)
 
-[Week 4 - Programming Assignment 5 - Deep Neural Network for Image Classification: Application](https://www.coursera.org/learn/neural-networks-deep-learning/programming/Sfu8g/deep-neural-network-application/lab?path=%2Fnotebooks%2Frelease%2FW4A2%2FDeep%2520Neural%2520Network%2520-%2520Application.ipynb)
+[Week 4 - Programming Assignment 5 - Deep Neural Network for Image Classification: Application](https://nbviewer.org/gist/ShrutiMarathe3110/18981cae962f7ae22b931e635b0845a3)
 
 
 ##Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
