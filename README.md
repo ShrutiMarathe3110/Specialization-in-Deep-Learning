@@ -19,12 +19,12 @@ This repository contains the work (progamming assinments) I have done towards th
 
 
 ##Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-[Week 1 - Programming Assignment 1 - Initialization](https://www.coursera.org/learn/deep-neural-network/programming/QF47Q/initialization/lab?path=%2Fnotebooks%2Frelease%2FW1A1%2FInitialization.ipynb)
+[Week 1 - Programming Assignment 1 - Initialization](https://nbviewer.org/gist/ShrutiMarathe3110/1bbd2fb7df8b07b757ecaef395242998)
 
-[Week 1 - Programming Assignment 2 - Regularization](https://www.coursera.org/learn/deep-neural-network/programming/FjL8C/regularization/lab?path=%2Fnotebooks%2Frelease%2FW1A2%2FRegularization.ipynb)
+[Week 1 - Programming Assignment 2 - Regularization](https://nbviewer.org/gist/ShrutiMarathe3110/17c49ececb06efc2c920eeeeb2a74c38)
 
-[Week 1 - Programming Assignment 3 - Gradient Checking](https://www.coursera.org/learn/deep-neural-network/programming/RS2w3/gradient-checking/lab?path=%2Fnotebooks%2Frelease%2FW1A3%2FGradient_Checking.ipynb)
+[Week 1 - Programming Assignment 3 - Gradient Checking](https://nbviewer.org/gist/ShrutiMarathe3110/debfa90111a09e9d144ea157b5017066)
 
-[Week 2 - Programming Assignment 4 - Optimization Methods](https://www.coursera.org/learn/deep-neural-network/programming/390Oe/optimization-methods/lab?path=%2Fnotebooks%2Frelease%2FW2A1%2FOptimization_methods.ipynb)
+[Week 2 - Programming Assignment 4 - Optimization Methods](https://nbviewer.org/gist/ShrutiMarathe3110/195d6d351d978b6608288b2fea5a916d)
 
-[Week 3 - Programming Assignment 5 - TensorFlow Tutorial](https://www.coursera.org/learn/deep-neural-network/programming/fuJJY/tensorflow-introduction/lab?path=%2Fnotebooks%2Frelease%2FW3A1%2FTensorflow_introduction.ipynb)
+[Week 3 - Programming Assignment 5 - TensorFlow Tutorial](https://nbviewer.org/gist/ShrutiMarathe3110/f904ef07c0864d53252e7d0ed7531689)
