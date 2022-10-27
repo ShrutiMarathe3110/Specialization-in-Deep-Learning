@@ -7,7 +7,7 @@ This repository contains the work (progamming assinments) I have done towards th
 
 ## Programming assignments
 ## Course 1 : Neural Networks and Deep Learning
-[Week 2 - Programming Assignment 1 - Python Basics with Numpy](https://www.coursera.org/learn/neural-networks-deep-learning/programming/isoAV/python-basics-with-numpy/lab?path=%2Fnotebooks%2Frelease%2FW2A1%2FPython_Basics_with_Numpy.ipynb)
+[Week 2 - Programming Assignment 1 - Python Basics with Numpy](https://nbviewer.org/gist/ShrutiMarathe3110/3c18c3f4d7b0a394f9e4a3a80876a3d0)
 
 [Week 2 - Programming Assignment 2 - Logistic Regression with a Neural Network mindset](https://nbviewer.org/gist/ShrutiMarathe3110/3c18c3f4d7b0a394f9e4a3a80876a3d0)
 
